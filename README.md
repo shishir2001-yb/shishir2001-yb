@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 👯 I’m looking to collaborate on [HelpU](https://github.com/shishir2001/HelpU.git)
-
 - 👨‍💻 My last app [https://github.com/GFG-CLUB-KIIT/baysafe.git](https://github.com/GFG-CLUB-KIIT/baysafe.git)
 
 - 📫 How to reach me **shishir072001@gmail.com**
 
-- Find my resume here [https://drive.google.com/file/d/1GM5D9dgHjKbrxwRw7QkHq5H6JFJWizF5/view?usp=sharing](https://drive.google.com/file/d/1GM5D9dgHjKbrxwRw7QkHq5H6JFJWizF5/view?usp=sharing)
+- My resume-><a href="https://drive.google.com/file/d/1GM5D9dgHjKbrxwRw7QkHq5H6JFJWizF5/view?usp=sharing" target="_blank">
+  <img width="30" height="30" border="0" align="center"  src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/64/000000/external-resume-human-resources-itim2101-lineal-color-itim2101.png"/>
+</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
