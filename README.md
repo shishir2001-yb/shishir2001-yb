@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shishir2001&label=Profile%20views&color=0e75b6&style=flat" alt="shishir2001" /> </p>
 
-- 🔭 I’m currently working on [HelpU](https://github.com/shishir2001/HelpU.git)
+<!-- - 🔭 I’m currently working on [HelpU](https://github.com/shishir2001/HelpU.git) -->
 
 - 🌱 I’m currently learning **Spring Boot**
 
