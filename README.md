@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **shishir072001@gmail.com**
 
-- My resume-><a href="https://drive.google.com/file/d/1IAzL4XMn1c1vSvySdzRPZKQwbKt0p6Lt/view?usp=sharing" target="_blank">
-  <img width="30" height="30" border="0" align="center"  src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/64/000000/external-resume-human-resources-itim2101-lineal-color-itim2101.png"/>
 </a>
 
 <h3 align="left">Connect with me:</h3>
