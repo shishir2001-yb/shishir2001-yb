@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shishir Sharma</h1>
-<h3 align="center">I am an App developer and a Backend Engineer</h3>
+<h3 align="center">I am a database developer and a Backend Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shishir2001-yb&label=Profile%20views&color=0e75b6&style=flat" alt="shishir2001-yb" /> </p>
 
