@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shishir Sharma</h1>
 <h3 align="center">I am a database developer and a Backend Engineer</h3>
-- 👨‍💻 My last app [https://github.com/GFG-CLUB-KIIT/baysafe.git](https://github.com/GFG-CLUB-KIIT/baysafe.git)
 
+- 👨‍💻 My last app [https://github.com/GFG-CLUB-KIIT/baysafe.git](https://github.com/GFG-CLUB-KIIT/baysafe.git)
 - 📫 How to reach me **shishir072001@gmail.com**
 
 </a>
